@@ -2,8 +2,8 @@
 # Tested with Python 3.10
 
 # Deep Learning
-torch==2.5.1+cu121
-torchvision==0.20.1+cu121
+torch==2.6 # Changed from 2.5.1+cu121
+torchvision==0.21 # Changed from 0.20.1+cu121
 
 # Data Processing
 numpy==2.1.2
